@@ -1,6 +1,7 @@
 
 {
     "name": "rozklad/heremaps-flexible-polyline",
+    "version": "1.0.0",
     "type": "library",
     "description": "PHP implementation of Flexible Polyline encoding: a lossy compressed representation of a list of coordinate pairs or triples",
     "keywords": [
